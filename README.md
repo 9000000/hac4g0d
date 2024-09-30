@@ -1,6 +1,6 @@
 hướng dẫn
 
-Tải termux
+Tải app [termux](https://github.com/termux/termux-app/releases)
 
 `termux-setup-storage && apt update && apt upgrade -y`
 
