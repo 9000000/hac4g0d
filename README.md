@@ -8,5 +8,5 @@ Tải termux
 
 tải app [HyperSocksDroid](https://github.com/9000000/hac4g0d/raw/refs/heads/main/SocksDroid.apk) chạy
 
-Quay lại app termux chạy "tun"
+Quay lại app termux chạy " `tun` "
 
